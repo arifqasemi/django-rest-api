@@ -2,7 +2,7 @@
 
 1. Token authentication:
    
-   created a user authentication to allow the user do manipulate the data
+   created a user authentication to allow the user to manipulate the data
 
 3. classes base APIView :
 
